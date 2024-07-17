@@ -22,5 +22,5 @@ To contribute code, follow these steps:
 
 2. **Clone your Fork:**
  ```bash
- git clone https://github.com/tu_usuario/tu_fork.git
+ git clone https://github.com/CesarSuarezWD/github-final-project.git
  cd tu_fork
